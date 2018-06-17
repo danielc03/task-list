@@ -1,11 +1,17 @@
 body{
     position: relative;
-    background-color: #646464;
+    background-color: #ff7f50;
 }
 
+#main{
+  background: #dadada;
+  box-shadow: 0px 2px 15px 5px #fff;
+  margin-top: 20px; 
+}
 
-
-
+.fa{
+  cursor: pointer;
+}
 
 /*  ANIMATION  */
 
